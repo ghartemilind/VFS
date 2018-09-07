@@ -14,6 +14,7 @@
 #include<string.h>
 #include<io.h>
 
+
 typedef struct superblock
 {
 	int TotalInodes;
